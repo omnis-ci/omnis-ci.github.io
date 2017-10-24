@@ -10,6 +10,21 @@
 }
 
 img {
-	border: 1px solid #111;
 	padding: 20px;
+}
+
+img.reduced {
+	height: auto;
+}
+
+img.reduced.standard {
+	max-width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+img.reduced.slightly {
+	max-width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
 }
