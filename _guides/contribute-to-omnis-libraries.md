@@ -43,16 +43,19 @@ Use the GitHub app to commit and push the changes to the fork repository with th
 
 1. Open the forked repository in the GitHub app
 1. Review your changes and enter a summary and a description and click 'Commit to master'.
-1. Click on 'Push to origin' to upload the changes to repository on GitHub
+1. Click on 'Push to origin' to upload the changes to repository on GitHub.
 
 # Create pull-request
 Finnally a pull-request has to be made in order to notify the owner of the original repository that you have made changes to the library and want to contribute this to his repository. The steps below describes how the pull-request can be created
 
-1. In the GitHub app click on 'create Pull-request'
-1. Enter a descripton for the pull-request
-1. And click 'create Pull-request'
-1. ...
+1. In the GitHub app click on the menu 'Branch' and then on 'Create pull-request' This opens GitHub in the browser (If menu option is grayed out. See [Troubleshooting](#Troubleshooting) section).
+1. Enter a descripton for the pull-request.
+1. And click 'create Pull-request'.
+1. It is now to the owner of the original repository to descide if he accepts the changes. See the [About pull requests](https://help.github.com/articles/about-pull-requests/) documentation of GitHub for more informtion.
 
 #  Troubleshooting
 ## Errors at importing / exporting libraries
 One of the erros that can occur is that the library to be exported / imported is depended to an other library. This can be solved to open/import the other library in Omnis Studio.
+
+## Unable to create pull requests from the GitHub app
+If the menu line 'Create pull requests' is grayed out, then probably the repository is added as a local repository to the app. To enable the 'Create pull requests' menu line the repository has to be cloned from GitHub from within the GitHub app.
