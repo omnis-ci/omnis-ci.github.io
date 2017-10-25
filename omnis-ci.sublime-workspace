@@ -407,6 +407,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_guides/contribute-to-omnis-libraries.md",
+			"settings":
+			{
+				"buffer_size": 1612,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -531,10 +540,50 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 237.0,
-		"last_filter": "brow",
+		"height": 400.0,
+		"last_filter": "bow",
 		"selected_items":
 		[
+			[
+				"bow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git",
+				"git: push"
+			],
+			[
+				"git pu",
+				"git: push"
+			],
+			[
+				"git com",
+				"git: commit"
+			],
+			[
+				"git add",
+				"git: add (edit)"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git comm",
+				"git: commit"
+			],
+			[
+				"markdown",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"mark",
+				"Set Syntax: MultiMarkdown"
+			],
 			[
 				"brow",
 				"Preferences: Browse Packages"
@@ -613,10 +662,6 @@
 			],
 			[
 				"wor",
-				"Word Wrap: Toggle"
-			],
-			[
-				"wo",
 				"Word Wrap: Toggle"
 			],
 			[
@@ -780,10 +825,6 @@
 				"Set Syntax: SQL"
 			],
 			[
-				"word",
-				"Word Wrap: Toggle"
-			],
-			[
 				"brwos",
 				"Preferences: Browse Packages"
 			],
@@ -858,10 +899,6 @@
 			[
 				"inst",
 				"Package Control: Install Package"
-			],
-			[
-				"mark",
-				"Set Syntax: MultiMarkdown"
 			],
 			[
 				"copy",
@@ -1018,37 +1055,9 @@
 			[
 				"rem",
 				"Package Control: Remove Package"
-			],
-			[
-				"falign",
-				"FAlign: Alignment"
-			],
-			[
-				"fal",
-				"Snippet: final"
-			],
-			[
-				"fa",
-				"FAlign: Alignment"
-			],
-			[
-				"defaul",
-				"Preferences: Key Bindings - Default"
-			],
-			[
-				"term",
-				"Tint: New Terminal in Tab"
-			],
-			[
-				"syntax markdown ",
-				"Set Syntax: MultiMarkdown"
-			],
-			[
-				"markdown",
-				"Cheat Sheet: Github Flavored Markdown"
 			]
 		],
-		"width": 629.0
+		"width": 632.0
 	},
 	"console":
 	{
@@ -1075,8 +1084,16 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io",
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io/_guides"
+	],
 	"file_history":
 	[
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io/.gitignore",
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io/_guides/creating-a-github-account.md",
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io/_guides/contribute-to-omnis-libraries.mmd",
 		"/Users/h.p.noppe/Desktop/Readme.txt",
 		"/Users/h.p.noppe/Desktop/CvrmToolTestData/CvrmToolTestPatienten_import.sql",
 		"/Users/h.p.noppe/Desktop/CvrmToolTestData/wvbd.csv",
@@ -1201,10 +1218,7 @@
 		"/Users/h.p.noppe/Desktop/scipio400.08-08-2017.16-28.sql",
 		"/Applications/Omnis Studio 8.0.3.2 x64.app/Contents/MacOS/studio/config.json",
 		"/Applications/Omnis Studio 8.0.3.2.1 x64.app/Contents/MacOS/htmlcontrols/omn_list_base.js",
-		"/Applications/OmniHisWerkplek/LocalPrefs/BackupLocalPrefs/DiversenRemoteFutecDemoDataMetSSL/localprefs.txt",
-		"/Users/h.p.noppe/Library/Application Support/Omnis/Omnis Studio 810-009 x64/studio/config.json",
-		"/Applications/Omnis Studio 8.0.3.2.1 x64.app/Contents/MacOS/htmlcontrols/list/list.htm",
-		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/Windows/ScipioOS8installerWindows32bit/installer.nsi"
+		"/Applications/OmniHisWerkplek/LocalPrefs/BackupLocalPrefs/DiversenRemoteFutecDemoDataMetSSL/localprefs.txt"
 	],
 	"find":
 	{
@@ -1239,8 +1253,42 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_guides/contribute-to-omnis-libraries.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1171,
+								1171
+							]
+						],
+						"settings":
+						{
+							"at_wb_tests_view": false,
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"git_savvy.repo_path": "/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io",
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1348,7 +1396,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 192.0,
 	"status_bar_visible": true,
 	"template_settings":
