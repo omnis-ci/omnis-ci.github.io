@@ -3,6 +3,26 @@
 
 @import "{{ site.theme }}";
 
+#navigation {
+	margin-top: -3em;
+	margin-bottom: 5em;
+	margin-left: -20px;
+}
+
+#navigation li {
+	display: inline;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#navigation li * {
+	color: white;
+}
+
+#navigation li.active {
+	font-weight: 900;
+}
+
 .callout {
 	border: 1px solid #333;
 	background: #EEE;
