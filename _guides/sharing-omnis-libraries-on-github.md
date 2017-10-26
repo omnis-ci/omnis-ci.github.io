@@ -27,10 +27,36 @@ This guide will help you create a public repository on GitHub. Anyone can view y
 ## Phase 1: Setup your computer for GitHub development
 
 ### Create a GitHub account
-If you don't already have a GitHub account, [create one](/guides/creating-a-github-account.html).
+If you don't already have a GitHub account, head over to [https://github.com/join](https://github.com/join) to create a new account on GitHub.
+
+<div class="callout">
+Even if you plan to use GitHub for an organization or company, you still need a personal account. You can create your organization or company later.
+</div>
+
+Enter a username, email address, and password, then click __Create an account__.
+
+![Join GitHub](/images/join_github.png)
+
+GitHub will send you a verification email. Follow the steps in that email to complete verification.
+
+GitHub will ask you to customize your plan and tailor your experience, but these steps are optional. Complete them if you'd like, or move to the step step.
 
 ### Install GitHub Desktop
-Follow [this guide](/guides/setting-up-github-desktop.html) to install and set up GitHub Desktop, a user-friendly graphical front-end to working with GitHub projects.
+GitHub Desktop is a user-friendly graphical app for working with GitHub repositories. Download and install it from [https://desktop.github.com](https://desktop.github.com).
+
+Launch GitHub Desktop and choose **Sign into GitHub.com**.
+
+![GitHub Desktop Splash](/images/github_desktop_splash.png)
+
+Enter your GitHub user name and password, then click **Sign In**.
+
+![Sign into GitHub Desktop](/images/sign_into_github_desktop.png)
+
+Configure the name and email address that will appear with any changes you commit.
+
+![Configure GitHub Desktop](/images/configure_github_desktop.png)
+
+Click **Continue** and complete the setup.
 
 ## Phase 2: Setup a repository for your project
 
