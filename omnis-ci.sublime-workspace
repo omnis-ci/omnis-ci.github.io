@@ -1,0 +1,1405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"per",
+				"persssions"
+			],
+			[
+				"studio",
+				"STUDIO_FOLDER"
+			],
+			[
+				"Run",
+				"RUNTIME_RESOURCES"
+			],
+			[
+				"ru",
+				"RUNTIME_APP"
+			],
+			[
+				"Brain",
+				"BrainyDataXcomps"
+			],
+			[
+				"kCountry",
+				"kCountryNone"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"EX",
+				"EXAU_AGBCODE"
+			],
+			[
+				"EXAU_",
+				"EXAU_UZINUMMER"
+			],
+			[
+				"EXA",
+				"EXAU"
+			],
+			[
+				"ex",
+				"EXAU"
+			],
+			[
+				"EXa",
+				"EXAU_UZINUMMER"
+			],
+			[
+				"exau",
+				"EXAU_UZINUMMER"
+			],
+			[
+				"SCipio",
+				"ScipioUpdateJar"
+			],
+			[
+				"Uiz",
+				"UziPasDrivers"
+			],
+			[
+				"Omni",
+				"OmniHisLspJar"
+			],
+			[
+				"Brai",
+				"BrainyDataModules"
+			],
+			[
+				"Misc",
+				"MiscModules"
+			],
+			[
+				"Scipio",
+				"ScipioUpdateJar"
+			],
+			[
+				"Uzi",
+				"UziPasDrivers"
+			],
+			[
+				"Bra",
+				"BrainyDataModules"
+			],
+			[
+				"omnih",
+				"OmniHisLSP"
+			],
+			[
+				"OmniHis",
+				"OmniHisLSP"
+			],
+			[
+				"varchar",
+				"varchar"
+			],
+			[
+				"OPT",
+				"OPTN_PTNT_NR"
+			],
+			[
+				"lreg",
+				"LREG"
+			],
+			[
+				"ptnt",
+				"ptnt_nr"
+			],
+			[
+				"p",
+				"ptnt_nr"
+			],
+			[
+				"KE",
+				"ketenzorg_optn"
+			],
+			[
+				"OPTN",
+				"OPTN_SOORT"
+			],
+			[
+				"K",
+				"Ketenzorg"
+			],
+			[
+				"REtourPr",
+				"RetourPrescriptionList"
+			],
+			[
+				"LABP_",
+				"LABP_WAARDE"
+			],
+			[
+				"kEsc",
+				"kEscColor,pick"
+			],
+			[
+				"eps",
+				"epsd_diag_code"
+			],
+			[
+				"JOUR",
+				"JOUR_SEQ"
+			],
+			[
+				"PTNT",
+				"PTNT_HUISARTSNU"
+			],
+			[
+				"us",
+				"USRS"
+			],
+			[
+				"USRS",
+				"USRS_BACKGROUND_COLOR"
+			],
+			[
+				"Java",
+				"JAVA_APP"
+			],
+			[
+				"true",
+				"True"
+			],
+			[
+				"java",
+				"javaVersionChecked"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"jav",
+				"javaVersionChecked"
+			],
+			[
+				"JAVA",
+				"JAVA_VERSION"
+			],
+			[
+				"Mo",
+				"MacOS"
+			],
+			[
+				"conf",
+				"configJson"
+			],
+			[
+				"con",
+				"CONFIG_JSON"
+			],
+			[
+				"cof",
+				"CONFIG_JSON_PATH"
+			],
+			[
+				"epi",
+				"episodeActivated"
+			],
+			[
+				"episode",
+				"episodeActivated"
+			],
+			[
+				"RUN",
+				"RUNTIME_APP"
+			],
+			[
+				"re",
+				"RECOURCES"
+			],
+			[
+				"liba",
+				"LIBAET_VERSION"
+			],
+			[
+				"Lo",
+				"LOCAL_LIB"
+			],
+			[
+				"wor",
+				"WORKSPACE"
+			],
+			[
+				"foto",
+				"foto's"
+			],
+			[
+				"JOU",
+				"JOUR_ECONSULT_PUBLISHED_DATE"
+			],
+			[
+				"KTZG",
+				"KTZG_IN_PRAKTIJK"
+			],
+			[
+				"DERD",
+				"DERD_MEDREC32H"
+			],
+			[
+				"col",
+				"columnName"
+			],
+			[
+				"DropD",
+				"DropDownListName"
+			],
+			[
+				"fields",
+				"fields"
+			],
+			[
+				"s-idx",
+				"s-hidx\tsql-show-index"
+			],
+			[
+				"PA",
+				"PAKE_PATIENT_KENMERKEN_ID"
+			],
+			[
+				"s-fu",
+				"s-func-list\tsql-function-list"
+			],
+			[
+				"s-proc",
+				"s-proc-list\tsql-procedure-list"
+			],
+			[
+				"mail",
+				"MAIL_HUISARTSNU"
+			],
+			[
+				"LEUS",
+				"LEUS_STATUS"
+			],
+			[
+				"s-s",
+				"s-s\tsql-select"
+			],
+			[
+				"EPSD",
+				"EPSD_NR"
+			],
+			[
+				"epis",
+				"episodeNumber"
+			],
+			[
+				"epsd",
+				"EPSD"
+			],
+			[
+				"D",
+				"HisDataGeneriek"
+			],
+			[
+				"agna",
+				"AGNA_ARTS"
+			],
+			[
+				"ass",
+				"assert_equal('2015-32"
+			],
+			[
+				"curr",
+				"currentDayNr"
+			],
+			[
+				"curren",
+				"currentWeekNr"
+			],
+			[
+				"slave",
+				"slaves"
+			],
+			[
+				"huis",
+				"huisnr"
+			],
+			[
+				"bij",
+				"bijvoegsel_pos"
+			],
+			[
+				"hui",
+				"huisnr"
+			],
+			[
+				"PRFS_",
+				"PRFS_CHARVALUE"
+			],
+			[
+				"PRT",
+				"PRTC_HOOFDCODE"
+			],
+			[
+				"PFRS",
+				"PRFS_ID"
+			],
+			[
+				"PTNT_",
+				"PTNT_SBVZ_GEB_DATUM"
+			],
+			[
+				"web",
+				"webagenda-ws"
+			],
+			[
+				"sprintE",
+				"sprintExtraFileName"
+			],
+			[
+				"DOB",
+				"DBO's"
+			],
+			[
+				"DB",
+				"DBO's"
+			],
+			[
+				"DBOS_",
+				"DBOS_SCIPIO_VERSIE"
+			],
+			[
+				"decal",
+				"declareren"
+			],
+			[
+				"Pa",
+				"PAKE_TYPE"
+			],
+			[
+				"pa",
+				"PAKE_PATIENT_KENMERKEN_ID"
+			],
+			[
+				"sprint",
+				"sprintTotal"
+			],
+			[
+				"last",
+				"lastStoryCount"
+			],
+			[
+				"rev",
+				"reviewingStoriesCount"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"in",
+				"inProgressStories"
+			],
+			[
+				"PT",
+				"ptnt_nr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_guides/contribute-to-omnis-libraries.md",
+			"settings":
+			{
+				"buffer_size": 1612,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+				"YAML (Block Style)"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Marked 2.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Marked 2.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Execute MySQL.sublime-build",
+					""
+				],
+				[
+					"Packages/User/OmnisCloud.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/OmnisCloud.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/makensis/makensis.sublime-build",
+					""
+				],
+				[
+					"Packages/makensis/makensis.sublime-build",
+					"strict"
+				],
+				[
+					"Packages/makensis/makensis.sublime-build",
+					"Wine"
+				],
+				[
+					"Packages/makensis/makensis.sublime-build",
+					"Wine, strict"
+				],
+				[
+					"Packages/makensis/makensis.sublime-build",
+					"PowerShell"
+				],
+				[
+					"Packages/makensis/makensis.sublime-build",
+					"PowerShell, strict"
+				],
+				[
+					"Packages/NSIS/NSIS.sublime-build",
+					""
+				],
+				[
+					"Packages/NSIS/NSIS.sublime-build",
+					"strict"
+				]
+			],
+			[
+				"Packages/makensis/makensis.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "bow",
+		"selected_items":
+		[
+			[
+				"bow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git",
+				"git: push"
+			],
+			[
+				"git pu",
+				"git: push"
+			],
+			[
+				"git com",
+				"git: commit"
+			],
+			[
+				"git add",
+				"git: add (edit)"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git comm",
+				"git: commit"
+			],
+			[
+				"markdown",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"omnis",
+				"Set Syntax: Omnis"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set markd",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"book",
+				"Bookmarks: Clear All"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"edi",
+				"Set Syntax: Edifact"
+			],
+			[
+				"com",
+				"Compare with..."
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"mult",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"MARKDO",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"comp",
+				"Compare with..."
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"compar",
+				"Compare with..."
+			],
+			[
+				"wiki",
+				"Set Syntax: Confluence Wiki"
+			],
+			[
+				"mar",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"brwo",
+				"Preferences: Browse Packages"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"code in",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"from",
+				"Format: Javascript"
+			],
+			[
+				"codeinte",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"console",
+				"Wallaby.js: Show Console"
+			],
+			[
+				"semicolo",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"isn",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"x",
+				"Set Syntax: XML"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"conflu",
+				"Set Syntax: Confluence Wiki"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"jso",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"compa",
+				"Compare with..."
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"math",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"nsis",
+				"Set Syntax: NSIS"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa ",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"groov",
+				"Set Syntax: Groovy"
+			],
+			[
+				"rtf",
+				"Set Syntax: RTF"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"XML",
+				"Set Syntax: XML"
+			],
+			[
+				"brwose",
+				"Preferences: Browse Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"brwos",
+				"Preferences: Browse Packages"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"con",
+				"Set Syntax: Confluence Wiki"
+			],
+			[
+				"edif",
+				"Set Syntax: Edifact"
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"omni",
+				"Set Syntax: Omnis"
+			],
+			[
+				"package re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"rever",
+				"File: Revert"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"makr",
+				"Set Syntax: Markdown"
+			],
+			[
+				"jira",
+				"Markup Jira Confluence: Post page to Jira Confluence"
+			],
+			[
+				"bullet",
+				"MarkdownEditing: Switch List Bullet Type"
+			],
+			[
+				"lain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"copy",
+				"SublimeHighlight: copy to clipboard as RTF"
+			],
+			[
+				"WORD",
+				"Word Wrap: Toggle"
+			],
+			[
+				"om",
+				"Set Syntax: Omnis"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"WOR",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"high",
+				"SublimeHighlight: copy to clipboard as RTF"
+			],
+			[
+				"wordw",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"conf",
+				"Markup Jira Confluence: Post page to Jira Confluence"
+			],
+			[
+				"compare",
+				"Compare with..."
+			],
+			[
+				"ma",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"mu",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"multi",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"multimarkdown",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"multimark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"multima",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"syn bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"apples",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"line e",
+				"Line Ending: Windows"
+			],
+			[
+				"line",
+				"Line Ending: Unix"
+			],
+			[
+				"len",
+				"Line Ending: Windows"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"remoge",
+				"Package Control: Remove Package"
+			],
+			[
+				"swit",
+				"MarkdownEditing: Switch List Bullet Type"
+			],
+			[
+				"switch",
+				"MarkdownEditing: Switch List Bullet Type"
+			],
+			[
+				"markdowned convert",
+				"MarkdownEditing: Convert Underlined Headers to ATX"
+			],
+			[
+				"pull",
+				"git: pull"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"wordp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ta",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"tab",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"fali",
+				"FAlign: Alignment"
+			],
+			[
+				"cheat",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"chea",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 632.0
+	},
+	"console":
+	{
+		"height": 316.0,
+		"history":
+		[
+			"cls",
+			"clear",
+			"os.system(\"clear\")",
+			"os.system(\"cls\")",
+			"cls",
+			"clear",
+			"cls",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io",
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io/_guides"
+	],
+	"file_history":
+	[
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io/.gitignore",
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io/_guides/creating-a-github-account.md",
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io/_guides/contribute-to-omnis-libraries.mmd",
+		"/Users/h.p.noppe/Desktop/Readme.txt",
+		"/Users/h.p.noppe/Desktop/CvrmToolTestData/CvrmToolTestPatienten_import.sql",
+		"/Users/h.p.noppe/Desktop/CvrmToolTestData/wvbd.csv",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/scripts/preinstall",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/scripts/postinstall",
+		"/Users/h.p.noppe/Library/Application Support/Sublime Text 3/Packages/User/OmnisStudioHighlighter/Omnis.YAML-tmLanguage",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/OmnisStudioSetupScripts/tmp",
+		"/Users/h.p.noppe/Library/Application Support/Omnis/OmnisStudio8.1.1x64/const.json",
+		"/Applications/Omnis Studio 8.0.3.5 x64.app/Contents/MacOS/studio/config.json",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/OmnisStudioSetupScripts/downloadModules.sh",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/create_app",
+		"/Applications/OmniHisWerkplek/scdev.command",
+		"/Users/h.p.noppe/Library/Application Support/Omnis/OmnisStudio8.1.1x64/xcomp/const.json",
+		"/Volumes/Data/OmniHis/References/Programming/OmnisStudio/SDK/8.1/OSX-SDK-8.1-x64/readme.txt",
+		"/Volumes/Data/OmniHis/References/Programming/OmnisStudio/Conferences/Euromnis/Euromnis 2017/XCOMP constants/EuroOmnis 2017 Michael Monschau/SDKs/OSX-SDK-8.1-x64/const/Info.plist",
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/OmnisTAP/docs/OmnisTap preferences design.mmd",
+		"/Volumes/Data/LocalRepositories/OmniHis/Javascript/cvrm-risicotool/src/assets/js/patient.js",
+		"/Volumes/Data/LocalRepositories/OmniHis/Javascript/cvrm-risicotool/src/test/patient.js",
+		"/Volumes/Data/LocalRepositories/OmniHis/Javascript/cvrm-risicotool/src/test/cvrm.js",
+		"/Volumes/Data/LocalRepositories/OmniHis/Javascript/cvrm-risicotool/src/test/scorecalculator.js",
+		"/Volumes/Data/LocalRepositories/OmniHis/Javascript/cvrm-risicotool/src/test/dbpatient.js",
+		"/Volumes/Data/OmniHis/SublimeText/sublime-mysql.cnf",
+		"/Users/h.p.noppe/Downloads/REGR_TESTSET_RETOURRECEPTEN _ BASED_ON_CSV.sql",
+		"/Users/h.p.noppe/Library/Application Support/Sublime Text 3/Packages/User/SQL Beautifier.sublime-settings",
+		"/Users/h.p.noppe/Library/Application Support/Sublime Text 3/Packages/SqlBeautifier/SQL Beautifier.sublime-settings",
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnisTAP/docs/OmnisTap preferences design.mmd",
+		"/Users/h.p.noppe/Library/Application Support/Omnis/Omnis Studio 8.1.1 x64/studio/config/config.json",
+		"/Applications/Omnis Studio Runtime 8.0.3.5 x64.app/Contents/MacOS/bin/omniscli",
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omniscli/bin/omniscli",
+		"/Users/h.p.noppe/Desktop/HoppenbrouwerMEDREC3H aaa met UNH.txt",
+		"/Users/h.p.noppe/Downloads/demo-linscriptum.edi",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql lsptest_dev3copy/localprefs.txt",
+		"/Users/h.p.noppe/Desktop/HoppenbrouwerMEDREC3HAAA met UNH.txt",
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omniscli/bin/omniscli.ps1",
+		"/Users/h.p.noppe/Library/Application Support/Sublime Text 3/Packages/User/marked.sublime-build",
+		"/Applications/OmniHisWerkplek/OmniHisSqlTraceLogs/oJSoapClient20170927_42162_3.log",
+		"/Users/h.p.noppe/Desktop/oJSoapClient20170927_42180_34.log",
+		"/Applications/OmniHisWerkplek/OmniHisSqlTraceLogs/oJSoapClient20170927_47926_25.log",
+		"/Applications/OmniHisWerkplek/OmniHisSqlTraceLogs/oJSoapClient20170927_37996_53.log",
+		"/Applications/OmniHisWerkplek/OmniHisSqlTraceLogs/oJSoapClient20170927_38067_54.log",
+		"/Applications/OmniHisWerkplek/OmniHisSqlTraceLogs/oJSoapClient20170927_38075_39.log",
+		"/Applications/OmniHisWerkplek/OmniHisSqlTraceLogs/oJSoapClient20170927_38085_49.log",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql Scipio356ontw/localprefs.txt",
+		"/Users/h.p.noppe/Desktop/ziekenhuisMEDOVZ1 aangepast.txt",
+		"/Users/h.p.noppe/Desktop/testparam.sh",
+		"/Volumes/Data/OmniHis/SublimeText/ShellScratchPad.sh",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql ScipioCmdP/localprefs.txt",
+		"/Users/h.p.noppe/.wgetrc",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/OmnisStudioSetupScripts/setup_dev_app.sh",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/OmnisStudioSetupScripts/setup_omnis_8.0.3.5_dev.sh",
+		"/Users/h.p.noppe/Library/Application Support/Sublime Text 3/Packages/User/MySQL.sublime-build",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql Scipiolintest/localprefs.txt",
+		"/Applications/Omnis Studio 8.0.3.5 x64.app/Contents/MacOS/bin/omniscli",
+		"/Users/h.p.noppe/Downloads/STST-2088 (2).csv",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversensqlOmnihisSql1606 Scipio400test/localprefs.txt",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql Scipio410test/localprefs.txt",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql SCIPIO-13877/localprefs.txt",
+		"/Volumes/Data/LocalRepositories/Prive/Omnis/omnistap/README.md",
+		"/Users/h.p.noppe/Desktop/SPOD_4548_Broekhuizen7_19430626_20170913_999985437.txt",
+		"/Volumes/Data/LocalRepositories/OmniHis/Javascript/omnis-cvrmtool/js/chart.js",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql Scipio410Ontw/localprefs.txt",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/setup_dev_app.sh",
+		"/Users/h.p.noppe/Desktop/GetNumberOfRecordsOfPatientInTables.sql",
+		"/Users/h.p.noppe/Desktop/inhoudverantwoordelijke_Beheer_check_query.sql",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/Scipio OS X installer scripts/scripts/postinstall",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql Scipio1997test/localprefs.txt",
+		"/Users/h.p.noppe/Desktop/EMD zonder auteurs.xml",
+		"/Users/h.p.noppe/Desktop/UitgevoerdeQuery.sql",
+		"/Users/h.p.noppe/Downloads/lspconnectortest1-LSPKZ-1089-refill.sql",
+		"/Users/h.p.noppe/Downloads/BASIS_INSERT_TESTPATIENTEN.SQL",
+		"/Users/h.p.noppe/Downloads/QUERY_opvragen_JOUR_EPSD_RCPT_MCIC_OVGV_LABP.sql",
+		"/Users/h.p.noppe/Desktop/RVST_VERSTREKKINGSDATUM niet gevuld.xml",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql Scipiohenkie/localprefs.txt",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql ScipioHenkie/localprefs.txt",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql Scipio400Ontw/localprefs.txt",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql CmdPunt/localprefs.txt",
+		"/Users/h.p.noppe/Library/Application Support/Omnis/Omnis Studio 8.1 x64/studio/config.json",
+		"/Applications/OmniHisWerkplek/LocalPrefs/DiversenOmniHisDevSql Scipio354Test/localprefs.txt",
+		"/Users/h.p.noppe/Desktop/exau.csv",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/Windows/ScipioOS8installerWindows32bit/downloadBinaries.cmd",
+		"/Users/h.p.noppe/mydashboard/globalAuth.json",
+		"/Users/h.p.noppe/mydashboard/config/dashboard_common.json",
+		"/Users/h.p.noppe/mydashboard/packages/atlassian/README.md",
+		"/Users/h.p.noppe/mydashboard/README.md",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/setup_omnis_8.0.3.5_dev.sh",
+		"/Users/h.p.noppe/etc/hosts",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/setup_dev_app_os81.sh",
+		"/Users/h.p.noppe/Desktop/Darkula.json",
+		"/Users/h.p.noppe/Desktop/Solarized Dark.json",
+		"/Users/h.p.noppe/Downloads/Darkula.json",
+		"/Users/h.p.noppe/Downloads/Solarized Dark.json",
+		"/Users/h.p.noppe/Library/Application Support/Omnis/Omnis Studio 8.1 x64/studio/themes/appthemedefault.json",
+		"/Users/h.p.noppe/Downloads/testpatient 435.sql",
+		"/Users/h.p.noppe/Stack/Prive/Documents/Huis/Groepen meterkast.txt",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/create_all",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/OmniHisScipio8.plist",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/Distribution",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/Installers/MacOS/ScipioMacOSInstallerOS8/setup_dev_app",
+		"/Users/h.p.noppe/Downloads/TESTSCRIPT LSP BERICHT & SCIPIO_PAT.SQL",
+		"/Users/h.p.noppe/Desktop/Solarized Color Scheme/samples/test.c",
+		"/Users/h.p.noppe/Desktop/Charts/Darkula.json",
+		"/Applications/Omnis Studio 8.0.3.5 x64.app/Contents/MacOS/studio/themes/appthemecustom.json",
+		"/Users/h.p.noppe/Desktop/Fout bij verwerken LSP Ketenzorg bericht.xml",
+		"/Users/h.p.noppe/Downloads/testdatascript LSP inhoudverantwoordelijke.sql",
+		"/Users/h.p.noppe/Downloads/osx64 3/development/Omnis.app/Contents/PkgInfo",
+		"/Users/h.p.noppe/Desktop/SQL error bij voorschrijven recept.xml",
+		"/Volumes/Data/OmniHis/SublimeText/Geimporteerde labs vanuit MEDLAB.txt",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/scipio-nightly-build/scripts/archiveNightlyBuild.sh",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/scipio-nightly-build/scripts/getScipioVersion.sh",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/scipio-nightly-build/.git/config",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/scipio-nightly-build/scripts/printVersion.sh",
+		"/Users/h.p.noppe/Downloads/STST-1882_TESTDATA PATIENTEN AUTEUR_EN_BHEERDER_ EIGEN INVOER.sql",
+		"/Users/h.p.noppe/Desktop/SPOD_20005 GA twee jours.15-08-2017.txt",
+		"/Users/h.p.noppe/Desktop/SPOD_20005 SBA.txt",
+		"/Users/h.p.noppe/Desktop/SPOD_20002_INLOGASS.HUISARTS_NU=MT_20000101_20170815_986042390.txt",
+		"/Users/h.p.noppe/Desktop/Spod 20002 hs 15-08-2017.txt",
+		"/Users/h.p.noppe/Desktop/SPOD_20005_INLOG GA 15-08-2017.txt",
+		"/Volumes/Data/LocalRepositories/OmniHis/Scipio/ScipioNightlyBuild/scripts/getVcsCheckedInNotes.sh",
+		"/Users/h.p.noppe/Desktop/sublime-mysql.cnf",
+		"/Users/h.p.noppe/Desktop/scipio400ontw.10-08-2017.09-40.sql",
+		"/tmp/test.csv",
+		"/Users/h.p.noppe/Desktop/scipio400.08-08-2017.16-28.sql",
+		"/Applications/Omnis Studio 8.0.3.2 x64.app/Contents/MacOS/studio/config.json",
+		"/Applications/Omnis Studio 8.0.3.2.1 x64.app/Contents/MacOS/htmlcontrols/omn_list_base.js",
+		"/Applications/OmniHisWerkplek/LocalPrefs/BackupLocalPrefs/DiversenRemoteFutecDemoDataMetSSL/localprefs.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_guides/contribute-to-omnis-libraries.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1171,
+								1171
+							]
+						],
+						"settings":
+						{
+							"at_wb_tests_view": false,
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"git_savvy.repo_path": "/Volumes/Data/LocalRepositories/Prive/Omnis/omnis-ci.github.io",
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 157.0
+	},
+	"output.channel_repository_tools":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 267.0
+	},
+	"output.find_results":
+	{
+		"height": 116.0
+	},
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"output.package_dev":
+	{
+		"height": 124.0
+	},
+	"output.wallabyjs_console":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "omnis-ci.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/Data/OmniHis/SublimeText/Standard.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
