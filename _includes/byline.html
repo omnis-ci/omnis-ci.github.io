@@ -1,0 +1,2 @@
+{% assign contributor = site.data.contributors | where:"shortname", include.content.author | first %}
+<div class="byline">Published {{ include.content.date | date_to_long_string }} by <a href="{{ contributor.url }}">{{ contributor.name }}</a></div>

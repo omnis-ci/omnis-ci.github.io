@@ -1,7 +1,10 @@
 ---
 title: Sharing Omnis libraries on GitHub
+summary: The complete process to share an Omnis library on GitHub
+rank: 1
+author: aclay
+date: 2017-10-27
 ---
-# Sharing Omnis libraries on GitHub
 [GitHub.com](https://github.com) is the premier tool for sharing source code. Using the JSON export tool in [Omnis Studio 8.1](http://www.omnis.net/products/studio/index.jsp), Omnis developers can easily share their code on GitHub for other developers to discover, use, and improve.
 
 This guide will walk you through the complete process to share an Omnis library on GitHub.
@@ -39,7 +42,7 @@ Enter a username, email address, and password, then click __Create an account__.
 
 GitHub will send you a verification email. Follow the steps in that email to complete verification.
 
-GitHub will ask you to customize your plan and tailor your experience, but these steps are optional. Complete them if you'd like, or move to the step step.
+GitHub will ask you to customize your plan and tailor your experience, but these steps are optional. Complete them if you'd like, or move to the next step.
 
 ### Install GitHub Desktop
 GitHub Desktop is a user-friendly graphical app for working with GitHub repositories. Download and install it from [https://desktop.github.com](https://desktop.github.com).
@@ -67,7 +70,7 @@ GitHub organizes projects into repositories, similar to a project in the Omnis V
 |---|---|
 | Name | The name for your repository. Try using your library's name. GitHub's convention is use dashes for spaces |
 | Description | A brief description of this library |
-| Local Path | The parent folder that will contain your repository |
+| Local Path | The parent folder that will contain your repository. GitHub Desktop will create this path for you if need be |
 | Initialize this project with a README | Checked |
 | Git Ignore | None |
 | Licence | Choose an appropriate license if you'd like. See [choosealicense.com](https://choosealicense.com) for details on each license |

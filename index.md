@@ -5,7 +5,8 @@
 layout: home
 ---
 # Guides
-{% for guide in site.guides %}
+{% assign sorted_guides = site.guides | sort: 'rank' %}
+{% for guide in sorted_guides %}
 * [{{ guide.title }}]({{ guide.url }})
 {% endfor %}
 

@@ -49,4 +49,4 @@ defaults:
       path: ""
       type: guides
     values:
-      layout: page
+      layout: post
