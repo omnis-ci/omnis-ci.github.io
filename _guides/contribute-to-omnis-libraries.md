@@ -3,7 +3,7 @@ title: Contributing to Omnis libraries
 summary: How to contribute changes to someone else's code
 rank: 2
 author: frogli
-date: 2017-10-25
+date: 2017-10-27
 ---
 GitHub is built for collaboration and offers a well-defined practice for contributing changes to someone else's code. This process works very well with the JSON export in Omnis Studio 8.1, and this guide will walk you through this process.
 

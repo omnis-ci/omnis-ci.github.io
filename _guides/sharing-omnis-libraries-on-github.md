@@ -151,7 +151,7 @@ Once the repository is posted, go to **Repository** -> **View on GitHub** to see
 ### Share your repository
 Share the link to your repository on GitHub to any or all of these news channels:
 1. Post under the [News form on the Omnis Developer portal](https://developer.omnis.net/forums/forum/omnis-forum/news)
-1. Email [developer@omnis.net](mailto://developer@omnis.net) with a request to add your library to the Libraries section of the Omnis Developer portal
+1. Email [developer@omnis.net](mailto://developer@omnis.net) with a request to add your library to the Libraries section of the Omnis Developer portal. Be sure to include a link to repository on GitHub and a brief description of what the library does
 1. Post an announcement to the [Omnis Developer List](http://www.omnis-dev.com)
 1. Email the link directly
 
