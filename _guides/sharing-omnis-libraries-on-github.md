@@ -84,13 +84,9 @@ Click **Create Repository**.
 ### Configure your repository
 In GitHub Desktop, choose **Repository** -> **Show in Finder** on macOS or **Repository** -> **Show in Explorer** on Windows.
 
-Add these folders:
-```
-lib/
-src/
-```
+Add a folder called `lib` and copy or move your Omnis library into it.
 
-Copy or move your Omnis library into `lib/`.
+Add an empty folder called `src`. Later in this guide you'll export the JSON source of your library to this folder.
 
 Your folder should look something like this:
 
