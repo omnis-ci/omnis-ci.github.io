@@ -6,6 +6,7 @@ GitHub is built for collaboration and offers a well-defined practice for contrib
 
 ## Overview
 Contributing to someone else's repository on GitHub usually follows these steps:
+
 1. Copy, or fork, their repository for your changes
 1. Download, or clone, your copy of the repository
 1. Import their code
@@ -72,7 +73,7 @@ Click **Update JSON tree** in the Studio Browser. This will export the changed O
 Use the GitHub app to commit and push the changes to the fork repository with the steps below
 
 1. Open the forked repository in the GitHub app
-1. Review your changes and enter a summary and a description and click 'Commit to master'.
+1. Review your changes and enter a summary and a description and click *Commit to master*.
 ![GitHub app commit](../images/github_app_commit.png)
 1. Click on 'Push to origin' to upload the changes to repository on GitHub.
 
@@ -96,6 +97,4 @@ Most likely the choosen folder for the libary is the same as the one cloned from
 This means the library to be exported / imported is dependent on another library. Resovle this by first opening/importing the other library in Omnis Studio, then import the dependent library.
 
 #### Unable to create pull requests
-If the menu line 'Create pull requests' is grayed out, then probably the repository is added as a local repository to the app. To enable the 'Create pull requests' menu line the repository has to be cloned from GitHub from within the GitHub app.
-[../images/fork_repository.png]: 
-(../images/os-new_lib_json.png): 
+If the menu line *Create pull requests* is grayed out, then probably the repository is added as a local repository to the app. To enable the 'Create pull requests' menu line the repository has to be cloned from GitHub from within the GitHub app.
