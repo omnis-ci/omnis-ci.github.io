@@ -1,2 +1,2 @@
-# www.omnis.ci
-Source for www.omnis.ci
+# omnis.ci
+Source for omnis.ci
