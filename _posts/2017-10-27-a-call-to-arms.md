@@ -6,7 +6,13 @@ categories: github tutorial announcement
 author: aclay
 ---
 
+{% assign img_root = "/images/posts/a-call-to-arms" %}
+
+![Euromnis 2017]({{ img_root }}/euromnis2017.png){:class="centered"}
+
 Last week I was privileged to attend my first [EurOmnis](http://www.omnisworld.co.uk) conference, and even humbled to be invited to speak. Thursday evening featured an annual general meeting for OmnisWorld, the not-for-profit organization that organizes EurOmnis. One of the topics raised was using the new JSON export feature in Studio 8.1 to share Omnis code on GitHub. Specifically, the community would like to see Omnis as an officially-recognized language on GitHub to boost awareness, add syntax highlighting, and generally establish our development platform as legitimate within the largest hosted service for source code management.
+
+![Euromnis 2017]({{ img_root }}/omnis_plus_github.png){:class="centered"}
 
 Adding a new language to GitHub is accomplished through GitHub's [Linguist](https://github.com/github/linguist) project. Linguist primarily identifies the languages used in a repository by matching file extensions, and secondarily by matching patterns within the code. For Omnis, we would register the `.omh` extension for code files in a JSON export as well as `.lbs` extension for a complete library.
 
@@ -21,5 +27,7 @@ Omnis software has been around for decades, but we're only now able to sensibly 
 There are already repositories with both Omnis code and non-Omnis code using the [`.omh`](https://github.com/search?utf8=✓&q=extension%3Aomh+NOT+nothack&type=Code) and [`.lbs`](https://github.com/search?utf8=✓&q=extension%3Albs+NOT+nothack&type=Code) extensions, but we can train Linguist how to detect Omnis code specifically as long as we have the JSON export.
 
 Because Omnis developers may not have worked with GitHub much and because the JSON export is new, a request was raised for a step-by-step guide explaing how to share an Omnis library on GitHub. I volunteered to write that guide, and I'm happy to announce it is available on this site under [Guides: Sharing Omnis libraries on GitHub](/guides/sharing-omnis-libraries-on-github.html). Henk Noppe contributed a second guide explaining how to [contribute to Omnis libraries](contribute-to-omnis-libraries) once they're on GitHub, and I predict more guides and resources will be written as this project moves forward.
+
+![We can do it]({{ img_root }}/we_can_do_it.png){:class="centered"}
 
 And so, I'm issuing a general call to arms. Find your snippets, utilities, examples, and doodles. Rip out that useful window in your enterprise app that you want to share, or just make yet another *Hello World* app. Whether it's in 8.1, 4.3, or even Classic, convert it up to Studio 8.1, and put it on GitHub. Let's put Omnis on the map and start building a library (pardon the pun) of Omnis utilities, frameworks, examples and tools on the most popular code sharing site on the Internet.

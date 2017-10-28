@@ -5,6 +5,8 @@ rank: 1
 author: aclay
 date: 2017-10-27
 ---
+{% assign img_root = "/images/guides/sharing-omnis-libraries-on-github" %}
+
 [GitHub.com](https://github.com) is the premier tool for sharing source code. Using the JSON export tool in [Omnis Studio 8.1](http://www.omnis.net/products/studio/index.jsp), Omnis developers can easily share their code on GitHub for other developers to discover, use, and improve.
 
 This guide will walk you through the complete process to share an Omnis library on GitHub.
@@ -38,7 +40,7 @@ Even if you plan to use GitHub for an organization or company, you still need a 
 
 Enter a username, email address, and password, then click __Create an account__.
 
-![Join GitHub](/images/join_github.png)
+![Join GitHub]({{ img_root }}/join_github.png)
 
 GitHub will send you a verification email. Follow the steps in that email to complete verification.
 
@@ -49,15 +51,15 @@ GitHub Desktop is a user-friendly graphical app for working with GitHub reposito
 
 Launch GitHub Desktop and choose **Sign into GitHub.com**.
 
-![GitHub Desktop Splash](/images/github_desktop_splash.png)
+![GitHub Desktop Splash]({{ img_root }}/github_desktop_splash.png)
 
 Enter your GitHub user name and password, then click **Sign In**.
 
-![Sign into GitHub Desktop](/images/sign_into_github_desktop.png)
+![Sign into GitHub Desktop]({{ img_root }}/sign_into_github_desktop.png)
 
 Configure the name and email address that will appear with any changes you commit.
 
-![Configure GitHub Desktop](/images/configure_github_desktop.png)
+![Configure GitHub Desktop]({{ img_root }}/configure_github_desktop.png)
 
 Click **Continue** and complete the setup.
 
@@ -77,7 +79,7 @@ GitHub organizes projects into repositories, similar to a project in the Omnis V
 
 When finished the form should look something like this:
 
-<img src="/images/create_repository_in_github_desktop.png" alt="Create repository in GitHub Desktop" class="reduced standard">
+![Create repository in GitHub Desktop]({{ img_root }}/create_repository_in_github_desktop.png){:class="reduced standard"}
 
 Click **Create Repository**.
 
@@ -90,7 +92,7 @@ Add an empty folder called `src`. Later in this guide you'll export the JSON sou
 
 Your folder should look something like this:
 
-![Repository folder](/images/repository_folder.png)
+![Repository folder]({{ img_root }}/repository_folder.png)
 
 ### Configure the README
 The **README.md** file is a great place to provide instructions for using your library. When a visitor views your project on GitHub, the contents of this file are displayed on the main page for the project. 
@@ -106,20 +108,20 @@ You can also [copy a sample README.md](https://github.com/omnis-ci/omnis-lightsa
 ### Export your library
 Open your library from `lib/` folder using Omnis Studio. Select the library in the Studio Browser and click **Export Lib to JSON...** in the sidebar.
 
-![Export to JSON](/images/export_to_json.png)
+![Export to JSON]({{ img_root }}/export_to_json.png)
 
 Omnis will prompt for a location for the export. Choose the `src/` folder in your repository.
 
-<img src="/images/export_json_source.png" alt="Export to JSON Source" class="reduced slightly">
+![Export to JSON Source]({{ img_root }}/export_json_source.png){:class="reduced slightly"}
 
 ### Import your library
 It's a good idea to ensure your library can be rebuilt from the JSON export. The Studio Browser will now present an option to **Rebuild from JSON...**.
 
-![Rebuild from JSON](/images/rebuild_from_json.png)
+![Rebuild from JSON]({{ img_root }}/rebuild_from_json.png)
 
 Click **Rebuild from JSON...**, then click **Import** on the confirmation prompt. 
 
-<img src="/images/confirm_rebuild_from_json.png" alt="Confirm Rebuild from JSON" class="reduced slightly">
+![Confirm Rebuild from JSON]({{ img_root }}/confirm_rebuild_from_json.png){:class="reduced slightly"}
 
 Review your Omnis library to ensure it works properly. If you need to access the original library, click **Restore Library...** in the Studio Browser sidebar. You can also find your library on disk in these locations:
 
@@ -131,18 +133,18 @@ Review your Omnis library to ensure it works properly. If you need to access the
 ### Commit your changes
 Return to GitHub Desktop and you will see a number of files marked for change. Enter a summary for your commit, such as ___Initial commit___.
 
-![Initial commit](/images/initial_commit.png)
+![Initial commit]({{ img_root }}/initial_commit.png)
 
 Click **Commit to master** and your changes will be saved to the local repository on your machine.
 
 ### Publish your repository to GitHub
 Click **Publish Repository** in the GitHub Desktop toolbar to share your repository with the world.
 
-![Publish repository](/images/publish_repository.png)
+![Publish repository]({{ img_root }}/publish_repository.png)
 
 Fill out a description and ***uncheck*** **Keep this code private**. Leave the organization as **None**.
 
-<img src="/images/remote_repository_settings.png" alt="Remote repository settings" class="reduced standard">
+![Remote repository settings]({{ img_root }}/remote_repository_settings.png){:class="reduced standard"}
 
 Click **Publish Repository** and GitHub Desktop will push your code to GitHub.
 
@@ -162,18 +164,18 @@ When you need to change the library, make them in the `lbs` file in the `lib/` f
 
 Next, open the Studio Browser and select your library. Click **Update JSON tree...** in the sidebar.
 
-![Update JSON tree](/images/update_json_tree.lbs)
+![Update JSON tree]({{ img_root }}/update_json_tree.lbs){:class="reduced standard"}
 
 Confirm you want to do this.
 
-<img src="/images/confirm_update_json_tree.png" alt="Confirm update JSON tree" class="reduced slightly">
+![Confirm update JSON tree]({{ img_root }}/confirm_update_json_tree.png){:class="reduced slightly"}
 
 Open GitHub Desktop and review your changes. Check the changes you'd like to commit and enter a summary and any commit notes.
 
-![Review changes to commit](/images/commit_changes.png)
+![Review changes to commit]({{ img_root }}/commit_changes.png)
 
 Click **Commit to master** to save the changes locally, then click **Push Origin** in the toolbar to upload your changes to GitHub.
 
-![Push origin](/images/push_origin.png)
+![Push origin]({{ img_root }}/push_origin.png)
 
 Developers can now download an updated `lbs` with your changes, or pull the `src` and import it directly into Omnis.
