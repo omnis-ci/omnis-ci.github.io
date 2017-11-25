@@ -94,6 +94,36 @@ Your folder should look something like this:
 
 ![Repository folder]({{ img_root }}/repository_folder.png)
 
+### Configure `.gitattributes`
+The Omnis JSON import looks for carriage return characters `CR` to delimit new lines of code in `*.omh` files regardless of the platform performing the import. `git` defaults to managing repository line ending automatically for your current platform. This means you'll get linefeed `LF` characters on macOS, Linux, and other Unix-based systems, and carriage return linefeeds `CRLF` on Windows. Omnis Software recommends using the Windows line endings on all platforms as the linefeed character will be ignored and CRLF line endings are standard on at least one modern platform.
+
+You can configure your repository to use CRLF line endings for Omnis code files using the `.gitattributes` file. GitHub has a [great article](https://help.github.com/articles/dealing-with-line-endings/) that describes how this file works. Your `.gitattributes` file should contain a section like this:
+
+```
+# Declare files that will always have CRLF line endings on checkout.
+* .omh text eol=crlf
+```
+
+You'll need to create this file using a text editor. Because the file name begins with a dot `.` it may not be visible by default in the macOS Finder or Windows Explorer.
+
+A convenient way to configure this file is to use a terminal command.
+
+#### macOS
+1. Open your repository in GitHub Desktop
+1. Go to  **Repository** -> **Open in Terminal**
+1. Paste in this command:
+```bash
+echo '# Declare files that will always have CRLF line endings on checkout.' > .gitattributes; echo '* .omh text eol=crlf' >> .gitattributes
+```
+
+#### Windows
+1. Open your repository in GitHub Desktop
+1. Go to  **Repository** -> **Open in Command Prompt**
+1. Paste in this command:
+```cmd
+echo # Declare files that will always have CRLF line endings on checkout. > .gitattributes & echo * .omh text eol=crlf >> .gitattributes
+```
+
 ### Configure the README
 The **README.md** file is a great place to provide instructions for using your library. When a visitor views your project on GitHub, the contents of this file are displayed on the main page for the project. 
 
