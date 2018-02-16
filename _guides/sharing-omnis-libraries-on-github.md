@@ -102,6 +102,11 @@ You can configure your repository to use CRLF line endings for Omnis code files 
 ```
 # Declare files that will always have CRLF line endings on checkout.
 * .omh text eol=crlf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.lbs binary
 ```
 
 You'll need to create this file using a text editor. Because the file name begins with a dot `.` it may not be visible by default in the macOS Finder or Windows Explorer.
@@ -113,7 +118,7 @@ A convenient way to configure this file is to use a terminal command.
 1. Go to  **Repository** -> **Open in Terminal**
 1. Paste in this command:
 ```bash
-echo '# Declare files that will always have CRLF line endings on checkout.' > .gitattributes; echo '* .omh text eol=crlf' >> .gitattributes
+echo '# Declare files that will always have CRLF line endings on checkout.' > .gitattributes; echo '* .omh text eol=crlf' >> .gitattributes; echo >> .gitattributes; echo '# Denote all files that are truly binary and should not be modified.' >> .gitattributes; echo '*.png binary' >> .gitattributes; echo '*.jpg binary' >> .gitattributes; echo '*.lbs binary' >> .gitattributes;
 ```
 
 #### Windows
@@ -121,7 +126,7 @@ echo '# Declare files that will always have CRLF line endings on checkout.' > .g
 1. Go to  **Repository** -> **Open in Command Prompt**
 1. Paste in this command:
 ```cmd
-echo # Declare files that will always have CRLF line endings on checkout. > .gitattributes & echo * .omh text eol=crlf >> .gitattributes
+echo # Declare files that will always have CRLF line endings on checkout. > .gitattributes & echo * .omh text eol=crlf >> .gitattributes & echo. >> .gitattributes & echo # Denote all files that are truly binary and should not be modified. >> .gitattributes & echo *.png binary >> .gitattributes & echo *.jpg binary >> .gitattributes & echo *.lbs binary >> .gitattributes
 ```
 
 ### Configure the README
