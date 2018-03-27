@@ -166,6 +166,8 @@ Review your Omnis library to ensure it works properly. If you need to access the
 | Windows | `%LOCALAPPDATA%/Omnis/Omnis Studio [Version] x64/archives` |
 
 ### Commit your changes
+<div class="callout">If running Windows, ensure your library is not open in Omnis before proceeding. Omnis places a lock on the `.lbs` file which prevents git from reading it properly. macOS does not place a similar exclusive lock, although it may be prudent to close your library to ensure all changes are flushed to disk.</div>
+
 Return to GitHub Desktop and you will see a number of files marked for change. Enter a summary for your commit, such as ___Initial commit___.
 
 ![Initial commit]({{ img_root }}/initial_commit.png)
