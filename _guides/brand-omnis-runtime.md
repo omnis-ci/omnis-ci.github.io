@@ -3,7 +3,7 @@ title: Branding the Omnis runtime
 summary: How to brand the Omnis runtime app as your app
 rank: 4
 author: aclay
-date: 2019-04-28
+date: 2021-07-07
 ---
 
 {% assign img_root = "/images/guides/brand-omnis-runtime" %}
@@ -206,6 +206,7 @@ This file is located at `Contents/Resources/English.lproj/Localizable.strings` a
 | `CORE_RES_1` | Application name |
 | `CORE_RES_577` | Application name. This affects the application menu entries |
 | `CORE_RES_25599` | The folder under `~/Library/Application Support` where your <a href="/guides/omnis-installation-locations.html#application_data_directory">application data</a> will be stored |
+| `CORE_RES_29300` | Application name. This affects the dialog that appears when Omnis copies `firstruninstall` to the application data directory in Studio 10.2 and later |
 
 ## <a id="app_name_windows"></a>App Name, Copyright, and Version: Windows
 
@@ -246,3 +247,4 @@ Edit your renamed `omnisdat.dll` file with a resource editor like **Resource Tun
 |----|--|----|
 | 1 | 1 | Your application's name |
 | 32 | 499 | The folder under `%LOCALAPPDATA%` where your <a href="/guides/omnis-installation-locations.html#application_data_directory">application data</a> will be stored |
+| 1832 | 29300 | Your application's name. This affects the dialog that appears when Omnis copies `firstruninstall` to the application data directory in Studio 10.2 and later |
