@@ -237,9 +237,11 @@ Also set the **File Version** and **Product Version** data. In **Resource Tuner*
 
 ### omnisdat.dll
 
-You need to rename the `omnisdat.dll` file using a specific convention based on your custom name for `omnis.exe`. Use the first 8 characters from your renamed `omnis.exe` file name, then add `dat.dll` to get the new name for `omnisdat.dll`.
+You need to rename the `omnisdat.dll` file using a specific convention based on your custom name for `omnis.exe`. Use the first 5 characters from your renamed `omnis.exe` file name, then add `dat.dll` to get the new name for `omnisdat.dll`.
 
-For example, if you rename `omnis.exe` to `Coffee Picker.dll` change the `omnisdat.dll` file to `Coffee Pdat.dll`.
+For example, if you rename `omnis.exe` to `Coffee Picker.dll` change the `omnisdat.dll` file to `Coffedat.dll`.
+
+Similarly if you rename `omnis.exe` to something with less than 5 characters such as `abc.exe`, change the `omnisdat.dll` file to `abcdat.dll`.
 
 Edit your renamed `omnisdat.dll` file with a resource editor like **Resource Tuner**. There are two entries to change under String Table.
 
